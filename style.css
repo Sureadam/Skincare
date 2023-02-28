@@ -777,6 +777,7 @@ footer {
     }
     article {
         width: 100%;
+        padding-left: 20px;
     }
     .business, .all{
         display: flex;
