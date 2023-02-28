@@ -191,6 +191,7 @@ article {
     justify-content: center;
     align-items: center;
     background-color: #EADDD2;
+    overflow-x: hidden;
 }
 .business {
     display: flex;
@@ -299,6 +300,7 @@ article {
 }
 aside {
     background-color: #EADDD2;
+    overflow-x: hidden;
 }
 .arrival {
     padding: 160px 100px;
