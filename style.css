@@ -563,6 +563,7 @@ footer {
 .ft3 p {
     color: #fff;
     text-align: center;
+    padding-bottom: 10px;
 }
 .ft1 {
     display: flex;
