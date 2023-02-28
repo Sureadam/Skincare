@@ -661,7 +661,7 @@ footer {
     .main {
         width: 900% ;
         height: 720px;
-        margin: 80px 0 0 20px;
+        margin: 80px 0 0 10px;
     }
     .reveal p, .rad p, .most p {
         font-size: 64px;
@@ -759,7 +759,7 @@ footer {
         margin-top: 24px;
     }
     .numbers {
-        width: 100%;
+        width: 97%;
     }
     .bus {
         margin-top: 36px;
